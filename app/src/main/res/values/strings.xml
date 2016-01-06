@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple List From Resources</string>
+    <string-array name="cur">
+        <item>EUR</item>
+        <item>RUR</item>
+        <item>GBP</item>
+        <item>USD</item>
+        <item>AUD</item>
+    </string-array>
+</resources>
